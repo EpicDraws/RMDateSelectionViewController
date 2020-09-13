@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RMDateSelectionViewController"
-  s.version      = "2.3.1"
+  s.version      = "2.3.2"
   s.platform     = :ios, "8.0"
   s.summary      = "This is an iOS control for selecting a date using UIDatePicker in a UIAlertController like manner"
   s.description  = "This framework allows you to select a date by presenting an action sheet. In addition, it allows you to add actions arround the presented date picker which behave like a button and can be tapped by the user. The result looks very much like an UIActionSheet or UIAlertController with a UIDatePicker and some UIActions attached."
